@@ -18,12 +18,9 @@
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=almostgod)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### 🔥 me when i dont see any problem in code
+### 🔥 when i dont see any problem in code
 
-
-
-https://user-images.githubusercontent.com/97393166/228146903-1d863040-80ac-4f2e-96f6-12fe990d400d.mp4
-
+![goku (1)](https://user-images.githubusercontent.com/97393166/228151199-a2f49180-a981-4b65-8353-8ca6b5e6779b.gif)
 
 
 ### ✍️ Random Dev Quote
