@@ -32,3 +32,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=divyankk14&icon=7&color=5)](https://visitcount.itsvg.in)
 
+![Snake animation]
+(https://github.com/divyankk14/divyankk14/blob/output/github-contribution-grid-snake.svg)
+
